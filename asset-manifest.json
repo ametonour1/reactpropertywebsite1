@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/reactpropertywebsite1/static/css/main.58f8b50c.css",
+    "main.js": "/reactpropertywebsite1/static/js/main.30d7e290.js",
+    "static/media/cyclades3.jpg": "/reactpropertywebsite1/static/media/cyclades3.077e7e3a528d3b5cc077.jpg",
+    "static/media/property4-1.webp": "/reactpropertywebsite1/static/media/property4-1.30fae1eec21c69a6415b.webp",
+    "static/media/property3-1.webp": "/reactpropertywebsite1/static/media/property3-1.7577021f9f3dee30a611.webp",
+    "static/media/property4.webp": "/reactpropertywebsite1/static/media/property4.1a18e28da4aa041bfeea.webp",
+    "static/media/property3-2.webp": "/reactpropertywebsite1/static/media/property3-2.1b33416cc3b5633544cf.webp",
+    "static/media/property1-6.webp": "/reactpropertywebsite1/static/media/property1-6.940c41b1975d33e50958.webp",
+    "static/media/property3.webp": "/reactpropertywebsite1/static/media/property3.f5eebabfed974a668099.webp",
+    "static/media/property2.webp": "/reactpropertywebsite1/static/media/property2.d2c0c2757a042c6c2281.webp",
+    "static/media/property5.webp": "/reactpropertywebsite1/static/media/property5.c9d5edd7b67e0dd60bb5.webp",
+    "static/media/property4-3.webp": "/reactpropertywebsite1/static/media/property4-3.647507465285c92e58eb.webp",
+    "static/media/property1-3.webp": "/reactpropertywebsite1/static/media/property1-3.65030f4956cca372bc11.webp",
+    "static/media/property2-1.webp": "/reactpropertywebsite1/static/media/property2-1.1e71536f9f3cff405353.webp",
+    "static/media/property1-4.webp": "/reactpropertywebsite1/static/media/property1-4.a61aae2f27002c57ad65.webp",
+    "static/media/property4-2.webp": "/reactpropertywebsite1/static/media/property4-2.d99539facfd90edce087.webp",
+    "static/media/property5-1.webp": "/reactpropertywebsite1/static/media/property5-1.b53732a8d4408efa9837.webp",
+    "static/media/property1-2.webp": "/reactpropertywebsite1/static/media/property1-2.f6d76e900e952b5f9a20.webp",
+    "static/media/property1-5.webp": "/reactpropertywebsite1/static/media/property1-5.bc011ea37d155a7edfb1.webp",
+    "static/media/property6-3.webp": "/reactpropertywebsite1/static/media/property6-3.5f6469bc3b3e8720d40e.webp",
+    "static/media/property1-1.webp": "/reactpropertywebsite1/static/media/property1-1.a812373b1d7b232ce007.webp",
+    "static/media/property1.webp": "/reactpropertywebsite1/static/media/property1.7d085dc02f99f3942e7d.webp",
+    "static/media/property5-2.webp": "/reactpropertywebsite1/static/media/property5-2.ae038f77c97c11796ccb.webp",
+    "static/media/property6.webp": "/reactpropertywebsite1/static/media/property6.c3cab6cd0a9264879ea8.webp",
+    "static/media/property5-3.webp": "/reactpropertywebsite1/static/media/property5-3.2c0087f6716f26504147.webp",
+    "static/media/property6-1.webp": "/reactpropertywebsite1/static/media/property6-1.a46e1bc883f5a4c0401d.webp",
+    "static/media/property2-2.webp": "/reactpropertywebsite1/static/media/property2-2.f6e6cbba7edbbabc9678.webp",
+    "static/media/property6-2.webp": "/reactpropertywebsite1/static/media/property6-2.ef30851c8f08f3f5a4f4.webp",
+    "static/media/property2-3.webp": "/reactpropertywebsite1/static/media/property2-3.1d92eaf71cfec0954cf6.webp",
+    "static/media/logo3.svg": "/reactpropertywebsite1/static/media/logo3.cfbde77b79575560419b00610f7edb7b.svg",
+    "index.html": "/reactpropertywebsite1/index.html",
+    "main.58f8b50c.css.map": "/reactpropertywebsite1/static/css/main.58f8b50c.css.map",
+    "main.30d7e290.js.map": "/reactpropertywebsite1/static/js/main.30d7e290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f8b50c.css",
+    "static/js/main.30d7e290.js"
+  ]
+}
