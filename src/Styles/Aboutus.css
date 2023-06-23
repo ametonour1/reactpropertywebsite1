@@ -1,0 +1,24 @@
+.aboutus{
+display: flex;
+flex-direction: column;
+gap: 2rem;
+height: 100vh;
+background-color: rgb(237, 241, 238);
+}
+.aboutus h1 {
+    color:#C30189;
+    font-size: 2.2rem;
+    justify-self: center;
+    align-self: center;
+    margin-top: 15px;
+}
+.aboutus p{
+    margin: 5px 30px;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+@media only screen and (max-width: 800px) {
+    .aboutus {
+        height: auto;
+    }
+}

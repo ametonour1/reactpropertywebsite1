@@ -1,0 +1,8 @@
+.contactus {
+    margin: 30px 30px;
+}
+@media only screen and (max-width: 800px) {
+    .contactus{
+        margin: 10px 0;
+    }
+}

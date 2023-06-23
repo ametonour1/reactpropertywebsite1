@@ -1,0 +1,53 @@
+.navbar {
+    background-color: #0189c3;
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    height: 60px;
+}
+.leftside {
+    margin-left: 1.2%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.rightside {
+    align-self: center;
+    display: flex;
+    gap: 1rem;
+    margin-right: 2%;
+    font-size: 1.22rem;
+}
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+.link:hover{
+    color: #89C301;
+}
+.hamburger{
+    display: none;
+}
+@media only screen and (max-width: 800px) {
+    .navbar {
+        flex-direction: column;
+    }
+    .rightside {
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    .hamburger {
+        display: block;
+        color: #fff;
+        background-color: transparent;
+        border: none;
+        font-size: large;
+    }
+    .leftside {
+        display: flex;
+        justify-content: space-between;
+    }
+    #closed {
+        display: none;
+    }
+}
